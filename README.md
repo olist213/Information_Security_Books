@@ -3,7 +3,7 @@ typora-root-url: image
 ---
 
 # olist213_Information_Security_Books
- 50本信息安全方面的书籍书籍（持续更新）
+ 150本信息安全方面的书籍书籍（持续更新）
 
 > 书籍均来自互联网，请支持正版。
 
