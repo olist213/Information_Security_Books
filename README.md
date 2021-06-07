@@ -67,7 +67,7 @@
 ├── 023Encoding_And_Filtering
 │  └── 101_Encoding_And_Filtering.pdf
 ├── 024信息安全风险评估教程
-│  └── [信息安全风险评估教程].付钰.吴晓平.扫描版(ED2000.COM).pdf
+│  └── [信息安全风险评估教程].付钰.吴晓平.扫描版.pdf
 ├── 025Linux 101 Hacks
 │  └── Linux 101 Hacks - Free eBook.pdf
 ├── 026Sed & awk 101Hacks
@@ -113,7 +113,7 @@
 ├── 052docker-从入门到实践
 │  └── docker_practice.pdf
 ├── 053只是为了好玩
-│  ├── Linus Torvalds：只是为了好玩——Linux 之父林纳斯自传 (扫描版).pdf
+│  ├── Linus Torvalds：只是为了好玩——Linux 之父林纳斯自传.pdf
 │  └── 只是为了好玩.mobi
 ├── 054图解HTTP彩色版
 │  └── 图解HTTP彩色版.pdf
@@ -128,7 +128,9 @@
 │  ├── SHODAN for Penetration Testers.pdf
 │  └── shodan.pdf
 ├── 058SQL注入攻击与防御 第2版
-│  └── SQL注入攻击与防御  第2版_13421523.pdf
+│  ├── SQL注入攻击与防御  第2版_13421523.7z.001
+│  ├── SQL注入攻击与防御  第2版_13421523.7z.002
+│  └── SQL注入攻击与防御  第2版_13421523.7z.003
 ├── 059学会提问—批判性思维指南
 │  └── 学会提问-批判性思维指南.pdf
 ├── 060逆向工程权威指南
@@ -145,11 +147,13 @@
 ├── 065数字安全实用手册
 │  └── 数字安全实用手册.pdf
 ├── 066IDA.Pro权威指南(第2版）
-│  └── [IDA.Pro权威指南(第2版）.pdf
+│  ├── [IDA.Pro权威指南(第2版）.7z.001
+│  └── [IDA.Pro权威指南(第2版）.7z.002
 ├── 067捉虫日记
 │  └── 捉虫日记.pdf
 ├── 068漏洞战争：软件漏洞分析精要
-│  └── 漏洞战争-软件漏洞分析精要(带索引高清珍藏版PDF).pdf
+│  ├── 漏洞战争-软件漏洞分析精要(带索引高清珍藏版PDF).7z.001
+│  └── 漏洞战争-软件漏洞分析精要(带索引高清珍藏版PDF).7z.002
 ├── 069 0day安全：软件漏洞分析技术（第2版）
 │  └── 0day安全：软件漏洞分析技术(第2版).pdf
 ├── 070自制操作系统
@@ -243,11 +247,14 @@
 ├── 099Exploit编写系列教程
 │  └── Exploit编写系列教程1-10.pdf
 ├── 100灰帽黑客：正义黑客的道德规范、渗透测试、攻击方法和漏洞分析技术
-│  └── 灰帽黑客  正义黑客的道德规范、渗透测试、攻击方法和漏洞分析技术  第3版.PDF
+│  ├── 灰帽黑客  正义黑客的道德规范、渗透测试、攻击方法和漏洞分析技术  第3版.7z.001
+│  ├── 灰帽黑客  正义黑客的道德规范、渗透测试、攻击方法和漏洞分析技术  第3版.7z.002
+│  └── 灰帽黑客  正义黑客的道德规范、渗透测试、攻击方法和漏洞分析技术  第3版.7z.003
 ├── 101Android安全攻防权威指南
 │  └── Android安全攻防权威指南.pdf
 ├── 102Android Security Cookbook - Android安全攻防实战
-│  └── Android安全攻防实战.pdf
+│  ├── Android安全攻防实战.z01
+│  └── Android安全攻防实战.zip
 ├── 103linux 入门很简单
 │  └── Linux 入门很简单.mobi
 ├── 104汽车黑客大曝光
@@ -258,7 +265,6 @@
 │  └── 人人都是产品经理.pdf
 ├── 107听故事，学PPT设计
 ├── 108写给大家看的设计书
-│  ├── [写给大家看的设计书（第3版）].（美）RobinWilliams.高清扫描版.pdf
 │  ├── 写给大家看的设计书（第4版）超清版PDF.pdf
 │  └── 写给大家看的设计书（第三版）.mobi
 ├── 109运营之光：我的互联网运营方法论与自白2.0
@@ -268,8 +274,9 @@
 │  ├── 运营之光：我的互联网运营方法论与自白2.0.pdf
 │  └── 运营之光：我的互联网运营方法论与自白2.0.rar
 ├── 110Docker 技术入门与实战 - 第三版
-│  └── Docker技术入门与实战  第3版.pdf
-├── 111.md
+│  ├── Docker技术入门与实战  第3版.z01
+│  ├── Docker技术入门与实战  第3版.z02
+│  └── Docker技术入门与实战  第3版.zip
 ├── 111互联网企业安全高级指南
 │  └── 互联网企业安全高级指南.pdf
 ├── 112Shell脚本学习指南
@@ -289,27 +296,6 @@
 ├── 119IT-security
 │  └── IT-security.pdf
 ├── 120 内网安全攻防-渗透测试实战指南
-├── 121鸟哥的Linux私房菜服务器架设篇(第三版)
-│  └── 鸟哥的Linux私房菜服务器架设篇(第三版).pdf
-├── 122鸟哥的Linux私房菜 基础学习篇(第三版)
-│  └── 鸟哥的Linux私房菜 基础学习篇(第三版).pdf
-├── 123Linux系统管理与网络管理（第2版）
-│  └── Linux系统管理与网络管理（第2版）.pdf
-├── 124如何打造自我驱动型的技术团队
-│  └── 大咖对话 _ 如何打造自我驱动型的技术团队？.pdf
-├── 125Linux Shell脚本攻略
-│  └── LINUX SHELL脚本攻略(中文版带书签).pdf
-├── 126精通脚本黑客
-│  └── 《精通脚本黑客》.pdf
-├── 127Web前端黑客技术揭秘
-│  ├── Web前端黑客技术揭秘.pdf
-│  └── 《Web前端黑客技术揭秘》.txt
-├── 128Web安全测试
-│  ├── web安全测试.pdf
-│  └── Web安全测试.txt
-├── 129黑客攻防技术宝典：Web实战篇
-│  ├── [黑客攻防技术宝典Web实战篇].Dafydd.Stuttard.第2版.pdf
-│  └── 《黑客攻防技术宝典.Web实战篇（第2版）》.txt
 ├── 130威胁建模：设计和交付更安全的软件
 ├── 131The Mac Hacker's Handbook
 │  └── The Mac Hackers Handbook by Charles Miller, Dino Dai Zovi (z-lib.org).pdf
@@ -337,7 +323,8 @@
 ├── 140文城
 │  └── 《文城》---余华.mobi
 ├── 141CTF特训营
-│  └── CTF特训营.pdf
+│  ├── CTF特训营.z01
+│  └── CTF特训营.zip
 ├── 142Kali Linux渗透测试技术详解
 │  └── Kali Linux渗透测试技术详解.pdf
 ├── 143Linux程序设计(原书第2版)
@@ -351,13 +338,18 @@
 ├── 147红蓝对抗之Windows内网渗透
 │  └── 红蓝对抗之Windows内网渗透.pdf
 ├── 148网络硬件设备完全技术宝典(第3版)
-│  └── 网络硬件设备完全技术宝典(第3版).PDF
+│  ├── 网络硬件设备完全技术宝典(第3版).z01
+│  ├── 网络硬件设备完全技术宝典(第3版).z02
+│  ├── 网络硬件设备完全技术宝典(第3版).z03
+│  ├── 网络硬件设备完全技术宝典(第3版).z04
+│  └── 网络硬件设备完全技术宝典(第3版).zip
 ├── 149打造CTF 肾透测试兴奋混合剂v1.0
 │  └── 打造CTF 肾透测试兴奋混合剂v1.0.pdf
 ├── 150编程珠玑
 │  └── 编程珠玑高清pdf版.pdf
 ├── 151网络安全进阶笔记
-│  └── 网络安全进阶笔记.pdf
+│  ├── 网络安全进阶笔记.z01
+│  └── 网络安全进阶笔记.zip
 ├── 152ATT&CK手册
 │  ├── ATT&CK手册.docx
 │  └── ATT&CK手册.pdf
@@ -367,5 +359,18 @@
 │  ├── 奇安信红蓝紫实战攻防演习手册.pdf
 │  ├── 红队视角下的防御体系构建(1).pdf
 │  └── 蓝队视角下的防御体系突破.pdf
-└── 信息安全从业者书单推荐.jpg
+├── 155Web Hacking 101 中文版
+│  └── Web Hacking 101 中文版.pdf
+├── 156浅入浅出 Android 安全 中文版
+│  └── readme.txt
+├── 157The Complete Team Field Manual
+│  └── The Complete Team Field Manual.pdf
+├── 158苹果mac操作系统新手入门
+│  └── macos10-15-苹果mac操作系统新手入门.pdf
+├── 159Red Team Development and Operations A Practical Guide
+│  ├── Red Team Development and Operations A Practical Guide by Joe Vest, James Tubberville.pdf
+│  └── Red Team Development and Operations A Practical Guide by Joe Vest, James Tubberville.pdf.mobi
+├── image
+│  └── 信息安全从业者书单推荐.jpg
+└── README.md
 ```
