@@ -1,0 +1,1 @@
+目前无电子版，如果需要可以看https://github.com/SeikoSrp/Pentest-Notes的概括版本，对该书做的技术提炼总结。
