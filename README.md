@@ -13,7 +13,7 @@
 
 mobi：kindle格式
 
-epub：mac图书
+epub：mac图书，[koodo-reader](https://github.com/troyeguo/koodo-reader)
 
 pdf：pdf阅读器
 
